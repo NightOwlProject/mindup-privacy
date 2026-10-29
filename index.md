@@ -1,6 +1,6 @@
 # Politique de confidentialité de MindUp
 
-*Dernière mise à jour : 27 octobre 2026*
+*Dernière mise à jour : 29 octobre 2026*
 
 MindUp est un jeu de culture générale développé par Paul Lagraula, à titre personnel.
 
@@ -19,7 +19,7 @@ Ces données sont effacées quand vous désinstallez l'application ou videz ses 
 
 ## Connexion à Internet
 
-Au lancement, MindUp télécharge les nouvelles questions et les nouveaux badges depuis GitHub (raw.githubusercontent.com). Comme pour toute page web, GitHub reçoit l'adresse IP de l'appareil pour répondre à la demande ; MindUp ne lui transmet aucune autre information. Voir la [déclaration de confidentialité de GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement).
+MindUp fonctionne entièrement hors ligne et n'a pas accès à Internet. Les nouvelles questions et les nouveaux badges arrivent avec les mises à jour de l'application sur Google Play.
 
 ## Notifications
 

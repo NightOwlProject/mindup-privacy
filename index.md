@@ -1,6 +1,6 @@
 # Politique de confidentialité de MindUp
 
-*Dernière mise à jour : 2 novembre 2026*
+*Dernière mise à jour : 2 novembre 2026 (publicités et achats)*
 
 MindUp est un jeu de culture générale développé par Paul Lagraula, à titre personnel.
 
@@ -9,7 +9,8 @@ MindUp est un jeu de culture générale développé par Paul Lagraula, à titre 
 - Sans compte, rien ne quitte votre téléphone.
 - Avec un compte (facultatif), votre progression est sauvegardée en ligne pour que vous la retrouviez sur un autre téléphone.
 - Si vous jouez en ligne, votre pseudo, votre niveau et les badges que vous épinglez sont visibles des autres joueurs.
-- Pas de publicité, pas de mesure d'audience, aucune donnée vendue.
+- Des publicités discrètes (jamais pendant le jeu en ligne), avec votre consentement ; aucune avec MindUp+.
+- Pas de mesure d'audience, aucune donnée vendue.
 
 ## Sans compte
 
@@ -42,6 +43,14 @@ Pour proposer des adversaires même quand personne n'est connecté, certaines de
 **Modération.** Les pseudos insultants sont refusés. Un joueur peut signaler un pseudo : le signalement (qui signale, qui est signalé, le pseudo) est conservé pour la modération. Après plusieurs signalements, le pseudo est remplacé automatiquement ; en cas d'abus, un compte peut être exclu du jeu en ligne.
 
 **Protection contre la triche.** Pour vérifier que les parties en ligne viennent bien de l'application officielle, MindUp utilise Firebase App Check avec l'API Play Integrity de Google : votre téléphone transmet une attestation d'intégrité de l'application, sans donnée personnelle de jeu.
+
+## Publicités
+
+MindUp affiche parfois une publicité entre deux parties solo, et vous propose des vidéos facultatives (une seconde chance contre une vidéo). Elles sont fournies par Google AdMob. À la première ouverture, un formulaire vous demande votre consentement (RGPD) : vous pouvez refuser les publicités personnalisées, et changer d'avis à tout moment dans **Réglages → Mes choix pour les publicités**. AdMob peut utiliser l'identifiant publicitaire de l'appareil et des informations techniques (modèle, version d'Android, adresse IP approximative) selon vos choix ; voir la politique de Google : https://policies.google.com/technologies/ads. Avec MindUp+, aucune publicité n'est affichée.
+
+## Achats
+
+Les achats (MindUp+, fonds animés, pourboires) passent par Google Play, qui gère le paiement : MindUp ne voit jamais vos coordonnées bancaires. Le jeton d'achat fourni par Google Play est vérifié par notre serveur et conservé avec votre identifiant de compte, pour activer vos achats et éviter les fraudes ; les traces d'achat sont gardées le temps exigé par la loi.
 
 ## Où sont les données ?
 

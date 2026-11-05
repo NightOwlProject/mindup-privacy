@@ -152,7 +152,7 @@ The account, the backup and online play are run on Firebase (Google), acting as 
 
 ## Delete your account
 
-In the app: **Profile → Account → Delete account**. This permanently erases: your account, its backup, your username, your online profile, your friends, your reports and your recorded games. In other players' past duel and challenge results, your username is replaced by "Joueur supprimé" ("deleted player"). The progress already on your phone stays there.
+In the app: **Profile → Account → Delete account**. This permanently erases: your account, its backup, your username, your online profile, your friends, your reports and your recorded games. In other players' past duel and challenge results, your username is replaced by "Deleted player". The progress already on your phone stays there.
 
 You can also request deletion by email at mindup.app.contact@gmail.com, from your account's address: it is done within 30 days.
 
